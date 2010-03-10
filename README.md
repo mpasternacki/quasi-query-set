@@ -1,6 +1,7 @@
 This is a Python library imitating Django's lazy QuerySet API.
 
 For details of APIs inspiring this project, see:
+
  - http://docs.djangoproject.com/en/dev/ref/models/querysets/
  - http://haystacksearch.org/docs/searchqueryset_api.html
 
